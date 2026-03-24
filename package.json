@@ -1,0 +1,1 @@
+{"name": "teste", "version": "1.0.0", "description": "Root project configuration", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1"}, "repository": {"type": "git", "url": "git+https://github.com/cmunicipaldevereadoresdecerron-lgtm/teste.git"}, "keywords": [], "author": "", "license": "ISC"}
